@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: my-nginx2
-  namespace: bradkim
+  namespace: my-ns
   labels:
     app: my-nginx2
 spec:
